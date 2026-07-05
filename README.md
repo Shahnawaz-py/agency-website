@@ -1,4 +1,4 @@
-# agency-website
+# Agency-website
 Digital Agency Landing Page
 
 A modern, responsive single-page digital agency website built using HTML and CSS. The website is designed to showcase an agency's services, highlight its strengths, and provide an easy way for potential clients to get in touch.
